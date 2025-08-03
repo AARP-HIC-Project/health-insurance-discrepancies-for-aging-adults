@@ -6,7 +6,7 @@ tags:
   - race
   - glossary
 enableTOC: true
-draft: true
+draft: false
 assigned: "[[Darius]]"
 ---
 **Term:**  

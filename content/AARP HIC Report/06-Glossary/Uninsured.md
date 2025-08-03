@@ -3,7 +3,7 @@ aliases: "uninsurance"
 description: "Glossary entry for Uninsurance"
 tags: [glossary]
 enableTOC: true
-draft: true
+draft: false
 ---
 Uninsured**Term:**
 `Uninsured`
