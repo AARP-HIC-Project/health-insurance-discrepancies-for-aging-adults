@@ -1,5 +1,4 @@
 ---
-title: "Wage Gap"
 aliases: "wage gap"
 description: "Glossary entry for the Wage Gap"
 tags: [glossary]

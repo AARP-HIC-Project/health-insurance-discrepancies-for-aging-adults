@@ -1,5 +1,4 @@
 ---
-title: "Socioeconomic Factors"
 aliases: socioeconomic factors
 description: "Glossary entry for Socioeconomic Factors"
 tags:

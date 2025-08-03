@@ -1,5 +1,4 @@
 ---
-title: "Qualitative Research"
 aliases:
   - qualitative research
 description: "Glossary entry for Qualitative Research"

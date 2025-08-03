@@ -1,5 +1,4 @@
 ---
-title: "Preventive Care"
 aliases: preventative care
 description: "Glossary entry for Preventative Care"
 tags:

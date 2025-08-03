@@ -1,5 +1,4 @@
 ---
-title: "Health Disparities"
 aliases: health disparities
 description: "Glossary entry for Health Disparities"
 tags:

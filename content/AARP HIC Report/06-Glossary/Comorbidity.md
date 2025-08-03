@@ -1,5 +1,4 @@
 ---
-title: "Comorbidity"
 aliases: "comorbidity"
 description: "Glossary entry for Comorbidity"
 tags: [glossary]

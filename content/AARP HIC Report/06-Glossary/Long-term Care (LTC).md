@@ -1,5 +1,4 @@
 ---
-title: "Long-term Care (LTC)"
 aliases:
   - long-term care
   - LTC

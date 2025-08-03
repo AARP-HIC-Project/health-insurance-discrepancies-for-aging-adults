@@ -1,5 +1,4 @@
 ---
-title: "STEEP analysis"
 aliases: "STEEP"
 description: "Glossary entry for STEEP Analysis"
 tags: [glossary]

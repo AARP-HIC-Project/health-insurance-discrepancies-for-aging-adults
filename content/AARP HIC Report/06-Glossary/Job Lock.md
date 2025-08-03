@@ -1,5 +1,4 @@
 ---
-title: "Job Lock"
 aliases: "job lock"
 description: "Glossary entry for Job Lock"
 tags: [glossary]

@@ -1,5 +1,4 @@
 ---
-title: "Medication Non-Adherence"
 aliases: "medication non-adherence"
 description: "Glossary entry for medication non-adherence"
 tags: [glossary]

@@ -1,5 +1,4 @@
 ---
-title: "Culturally Competent Care"
 aliases: ["culturally competent care", "cultural competency of care"]
 description: "Glossary entry for Culturally Competent Care"
 tags: [social, race, glossary]

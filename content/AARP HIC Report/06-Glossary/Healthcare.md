@@ -1,5 +1,4 @@
 ---
-title: "healthcare"
 aliases: "Healthcare"
 description: "Glossary entry for Healthcare"
 tags: [glossary]

@@ -1,5 +1,4 @@
 ---
-title: "Federal Poverty Level (FPL)"
 aliases: "FPL"
 description: "Glossary entry for Federal Poverty Level"
 tags: [economic, race, glossary]

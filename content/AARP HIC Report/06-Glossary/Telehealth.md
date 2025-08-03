@@ -1,5 +1,4 @@
 ---
-title: "Telehealth"
 aliases: "telehealth"
 description: "Glossary entry for Telehealth"
 tags: [health, glossary]

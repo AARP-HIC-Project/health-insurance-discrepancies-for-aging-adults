@@ -1,5 +1,4 @@
 ---
-title: "healthcare access"
 aliases: "healthcare access"
 description: "Glossary entry for Healthcare Access"
 tags: [glossary]

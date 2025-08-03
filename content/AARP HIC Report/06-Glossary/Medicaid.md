@@ -1,5 +1,4 @@
 ---
-title: "Medicaid"
 description: "Glossary entry for Medicaid"
 tags: [glossary]
 enableTOC: true

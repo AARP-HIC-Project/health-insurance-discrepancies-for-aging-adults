@@ -1,5 +1,4 @@
 ---
-title: "Transgender and gender-diverse (TGD)"
 aliases: "transgender and gender-diverse"
 description: "Glossary entry for Transgender and gender-diverse (TGD)"
 tags: [gender, glossary]

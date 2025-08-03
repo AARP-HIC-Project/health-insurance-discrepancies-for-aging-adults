@@ -1,5 +1,4 @@
 ---
-title: "LGBTQ+"
 aliases: "LGBTQIA"
 description: "Glossary entry for LGBTQ+"
 tags: [gender, sexuality, glossary]

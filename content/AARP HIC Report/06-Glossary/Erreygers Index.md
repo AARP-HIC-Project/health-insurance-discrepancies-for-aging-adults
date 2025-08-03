@@ -1,5 +1,4 @@
 ---
-title: "Erreygers Index"
 aliases: "EI"
 description: "Glossary entry for Erreygers Index"
 tags: [economic, glossary]

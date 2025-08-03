@@ -1,5 +1,4 @@
 ---
-title: American Indian Alaskan Native
 aliases:
   - AIAN
 description: "Glossary entry for American Indian Alaskan Native"

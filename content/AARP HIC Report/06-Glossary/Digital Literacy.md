@@ -1,5 +1,4 @@
 ---
-title: "Digital Literacy"
 aliases:
   - digital literacy
 description: "Glossary entry for Digital Literacy"

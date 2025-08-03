@@ -1,5 +1,4 @@
 ---
-title: "NFIB v. Sebelius"
 aliases: "ACA Supreme Court Ruling"
 description: "Glossary for NFIB v. Sebelius"
 tags: [glossary]

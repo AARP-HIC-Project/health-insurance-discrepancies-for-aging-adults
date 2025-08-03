@@ -1,5 +1,4 @@
 ---
-title: "Underwriting"
 aliases: underwriting
 description: "Glossary for Underwriting"
 tags: [glossary]

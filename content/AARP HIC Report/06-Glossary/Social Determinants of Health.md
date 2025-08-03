@@ -1,5 +1,4 @@
 ---
-title: "Social Determinants of Health"
 description: "Glossary entry for Social Determinants of Health"
 aliases:
   - SDOH

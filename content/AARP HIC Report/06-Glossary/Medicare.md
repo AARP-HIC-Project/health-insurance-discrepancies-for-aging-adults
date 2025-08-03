@@ -1,5 +1,4 @@
 ---
-title: "Medicare"
 description: "Glossary entry for Medicare"
 tags: [glossary]
 enableTOC: true

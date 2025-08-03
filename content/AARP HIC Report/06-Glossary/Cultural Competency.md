@@ -1,5 +1,4 @@
 ---
-title: "Cultural Competency"
 description: "Glossary entry for Cultural Competency"
 tags: [glossary]
 enableTOC: true

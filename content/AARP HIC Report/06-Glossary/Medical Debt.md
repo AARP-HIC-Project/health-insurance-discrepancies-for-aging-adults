@@ -1,5 +1,4 @@
 ---
-title: "Medical Debt"
 aliases: "medical debt"
 description: "Glossary entry for Medical Debt"
 tags: [socioeconomic, glossary]

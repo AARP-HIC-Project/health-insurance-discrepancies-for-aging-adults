@@ -1,5 +1,4 @@
 ---
-title: "Strategic Research Services"
 aliases:
   - Research Consulting
   - Strategic Research Consulting

@@ -1,5 +1,4 @@
 ---
-title: "The Digital Divide"
 aliases: "the digital divide"
 description: "Glossary entry for The Digital Divide"
 tags: [glossary]

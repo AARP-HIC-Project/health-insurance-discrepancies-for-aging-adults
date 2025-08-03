@@ -1,5 +1,4 @@
 ---
-title: "Health Savings Accounts"
 aliases: "HSA"
 description: "A type of financial tool for health care"
 tags: [glossary]

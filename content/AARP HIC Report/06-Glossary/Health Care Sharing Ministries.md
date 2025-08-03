@@ -1,5 +1,4 @@
 ---
-title: "Health Care Sharing Ministries"
 aliases: "HCSM"
 description: "A way of crowdsources health care costs"
 tags: [glossary]

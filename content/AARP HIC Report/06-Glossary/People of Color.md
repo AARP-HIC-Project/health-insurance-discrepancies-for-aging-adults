@@ -1,5 +1,4 @@
 ---
-title: "People of Color"
 aliases:
   - people of color
   - BIPOC

@@ -1,5 +1,4 @@
 ---
-title: "Mental Health Services"
 aliases:
   - mental health services
 description: "Glossary entry for Mental Health Services"

@@ -1,5 +1,4 @@
 ---
-title: "cisgender"
 aliases: "cisgender"
 description: "Glossary entry for Cisgender"
 tags: [gender, glossary]

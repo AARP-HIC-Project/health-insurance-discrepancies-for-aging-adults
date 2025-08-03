@@ -1,5 +1,4 @@
 ---
-title: "Age"
 description: "Glossary entry for Age"
 tags: [glossary]
 enableTOC: true

@@ -1,14 +1,9 @@
 ---
-created: 2025-07-24
-updated: 2025-07-24
-published: 
-title: "uninsurance"
 aliases: "uninsurance"
 description: "Glossary entry for Uninsurance"
 tags: [glossary]
 enableTOC: true
 draft: true
-assigned: "[[Darius]]"
 ---
 Uninsured**Term:**
 `Uninsured`

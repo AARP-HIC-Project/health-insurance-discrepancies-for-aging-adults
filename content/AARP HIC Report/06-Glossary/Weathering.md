@@ -1,5 +1,4 @@
 ---
-title: "Weathering"
 aliases: "weathering"
 description: "Glossary entry for Weathering"
 tags: [glossary]

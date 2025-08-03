@@ -1,5 +1,4 @@
 ---
-title: "Coverage Gap"
 aliases: "ACA coverage gap"
 description: "glossary of coverage gap"
 tags: glossary

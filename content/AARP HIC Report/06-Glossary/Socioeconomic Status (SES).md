@@ -1,5 +1,4 @@
 ---
-title: "Socioeconomic Status (SES)"
 aliases:
   - socioeconomic status
   - SES

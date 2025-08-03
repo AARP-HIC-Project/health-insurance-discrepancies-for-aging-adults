@@ -1,5 +1,4 @@
 ---
-title: "Modified Adjusted Gross Income"
 aliases: "MAGI"
 description: "Glossary entry for Modified Adjusted Gross Income"
 tags: [glossary, socioeconomic]

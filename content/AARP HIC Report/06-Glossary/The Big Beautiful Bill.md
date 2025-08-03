@@ -1,5 +1,4 @@
 ---
-title: "The Big Beautiful Bill"
 aliases:
   - Big Beautiful Bill
   - The Act

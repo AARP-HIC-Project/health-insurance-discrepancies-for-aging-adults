@@ -1,5 +1,4 @@
 ---
-title: Underinsured
 aliases: underinsured
 description: "Glossary entry for Underinsured"
 tags:

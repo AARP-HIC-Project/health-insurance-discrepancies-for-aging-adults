@@ -1,8 +1,10 @@
 ---
-title: "chronic conditions"
-aliases: "NCDs"
-description: "Glossary entry for Chronic Conditions"
-tags: [glossary]
+aliases:
+  - NCDs
+  - chronic conditions
+description: Glossary entry for Chronic Conditions
+tags:
+  - glossary
 enableTOC: true
 draft: false
 ---

@@ -1,5 +1,4 @@
 ---
-title: "Health Equity"
 aliases: "health equity"
 description: "Glossary entry for health equity"
 tags: [glossary]

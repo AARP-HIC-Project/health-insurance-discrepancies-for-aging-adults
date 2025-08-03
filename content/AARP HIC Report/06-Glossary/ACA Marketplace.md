@@ -1,5 +1,4 @@
 ---
-title: "ACA Marketplace"
 aliases:
   - Health Insurance Marketplace, marketplace, marketplaces
 description: "Glossary entry for Marketplace"

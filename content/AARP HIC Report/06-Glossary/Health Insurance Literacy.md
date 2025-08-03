@@ -1,8 +1,11 @@
 ---
-title: "Health Insurance Literacy"
-aliases: "HIL"
-description: "Glossary entry for Health Insurance Literacy"
-tags: [SDOH, glossary]
+aliases:
+  - HIL
+  - health insurance literacy
+description: Glossary entry for Health Insurance Literacy
+tags:
+  - SDOH
+  - glossary
 enableTOC: true
 draft: false
 ---

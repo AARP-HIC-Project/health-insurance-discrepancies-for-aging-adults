@@ -1,5 +1,4 @@
 ---
-title: "Covid-19 Pandemic"
 aliases: "Covid-19"
 description: "Glossary entry for Covid-19 pandemic"
 tags: [glossary]

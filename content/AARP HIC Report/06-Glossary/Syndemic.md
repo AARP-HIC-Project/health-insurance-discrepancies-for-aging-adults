@@ -1,5 +1,4 @@
 ---
-title: "Syndemic"
 aliases: "syndemic"
 description: "Glossary entry for Syndemic"
 tags: [glossary]

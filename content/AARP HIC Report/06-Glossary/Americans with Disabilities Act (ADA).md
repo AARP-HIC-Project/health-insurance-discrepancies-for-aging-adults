@@ -1,5 +1,4 @@
 ---
-title: "Americans with Disabilities Act"
 aliases:
   - the Americans with Disabilities Act
 description: "Glossary entry for the Americans with Disabilities Act"

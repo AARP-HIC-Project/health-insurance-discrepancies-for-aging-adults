@@ -1,5 +1,4 @@
 ---
-title: "Health Literacy"
 aliases: "health literacy"
 description: "Glossary entry for Health Literacy"
 tags: [SDOH, glossary]

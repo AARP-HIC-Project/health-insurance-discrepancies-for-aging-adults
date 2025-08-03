@@ -1,5 +1,4 @@
 ---
-title: "Affordable Care Act"
 aliases: ["Affordable Care Act", ACA, "Affordable Care Act (ACA)"]
 description: "Glossary entry for Affordable Care Act"
 tags: [glossary]

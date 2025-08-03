@@ -1,5 +1,4 @@
 ---
-title: "Short-Term Limited Duration Insurance"
 aliases: "STLDI"
 description: "Glossary entry for Short-Term Limited Duration Insurance"
 tags: [glossary]

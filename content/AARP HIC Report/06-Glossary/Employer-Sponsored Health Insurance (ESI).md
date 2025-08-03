@@ -1,5 +1,4 @@
 ---
-title: "Employer-Sponsored Health Insurance (ESI)"
 aliases:
   - employer-sponsored health insurance
   - employer-sponsored insurance (ESI)

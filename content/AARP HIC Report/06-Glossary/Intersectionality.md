@@ -1,5 +1,4 @@
 ---
-title: "Intersectionality"
 aliases: "intersectionality"
 description: "Glossary page for Intersectionality"
 tags: [glossary]

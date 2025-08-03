@@ -1,5 +1,4 @@
 ---
-title: "Hypertension"
 aliases: "high blood pressure"
 description: "Glossary entry for Hypertension"
 tags: [glossary]

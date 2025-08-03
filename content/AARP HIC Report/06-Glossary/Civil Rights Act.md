@@ -1,5 +1,4 @@
 ---
-title: "Civil Rights Act"
 aliases: "the Civil Rights Act"
 description: "Glossary entry for the Civil Rights Act"
 tags: [legal, glossary]

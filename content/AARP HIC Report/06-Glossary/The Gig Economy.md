@@ -1,5 +1,4 @@
 ---
-title: "The Gig Economy"
 aliases: the gig economy
 description: "Glossary entry for The Gig Economy"
 tags:

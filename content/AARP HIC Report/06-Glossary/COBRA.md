@@ -1,5 +1,4 @@
 ---
-title: "COBRA"
 aliases: "Consolidated Omnibus Budget Reconciliation Act"
 description: "Glossary entry for COBRA"
 tags: [insurance, cost, employment, unemployment]
