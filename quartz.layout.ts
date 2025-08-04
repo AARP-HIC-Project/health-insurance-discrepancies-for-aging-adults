@@ -17,6 +17,7 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
+    Component.ReaderMode(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
   ],
@@ -29,8 +30,8 @@ export const defaultContentPageLayout: PageLayout = {
           Component: Component.Search(),
           grow: true,
         },
-        { Component: Component.ReaderMode() },
         { Component: Component.Darkmode() },
+        { Component: Component.ReaderMode() },
       ],
     }),
     Component.Explorer(),
@@ -62,7 +63,7 @@ export const defaultContentPageLayout: PageLayout = {
     fontSize: 0.6,
     opacityScale: 1,
     removeTags: ["glossary", "theme"], // what tags to remove from the graph
-    showTags: true, // whether to show tags in the graph
+    showTags: false, // whether to show tags in the graph
     enableRadial: true, // whether to constrain the graph, similar to Obsidian
   },
 }),
@@ -83,6 +84,7 @@ export const defaultListPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
+        { Component: Component.ReaderMode() },
       ],
     }),
     Component.Explorer(),
